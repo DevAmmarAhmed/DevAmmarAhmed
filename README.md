@@ -1,20 +1,75 @@
-👋 Hi, I'm Ammar Ahmed
+<div align="center">
 
-🚀 Full Stack .NET Developer
+# Hi 👋, I'm Ammar Ahmed
 
-🏢 Building Enterprise ERP Systems
+### 🚀 Full Stack .NET Developer
 
-🤖 AI Assisted Development
+Building Enterprise ERP Solutions with .NET, Angular & AI
 
-🌍 Portfolio
-https://devammarahmed.github.io
+[🌐 Portfolio](https://devammarahmed.github.io) •
+[💼 LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) •
+📧 devammarahmed@gmail.com
 
-📫 devammarahmed@gmail.com
+</div>
 
-------------------
+---
 
-GitHub Stats
+# 👨‍💻 About Me
 
-Top Languages
+I'm a Full Stack .NET Developer specialized in building Enterprise ERP Systems.
 
-Pinned Repositories
+I enjoy creating scalable applications using modern architecture and AI-powered development tools.
+
+- 🚀 ASP.NET Core
+- ⚡ Angular
+- 🏗 Clean Architecture
+- 📦 ERP Systems
+- 🤖 AI Assisted Development
+- 🗄 SQL Server
+- 🔄 REST APIs
+
+---
+
+# 🚀 Current Projects
+
+- Enterprise ERP Platform
+- Restaurant ERP
+- AI Assisted Development
+- Modern Angular Applications
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+
+- ASP.NET Core
+- C#
+- Entity Framework Core
+- MediatR
+- CQRS
+- SQL Server
+
+### Frontend
+
+- Angular
+- TypeScript
+- HTML
+- CSS
+- SCSS
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Cursor AI
+- Visual Studio
+
+---
+
+# 📫 Contact
+
+📧 devammarahmed@gmail.com
+
+🌍 Egypt 🇪🇬
