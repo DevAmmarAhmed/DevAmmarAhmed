@@ -44,6 +44,7 @@ I enjoy building scalable software using modern architecture, clean code practic
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
+![ASP.NET Web Forms](https://img.shields.io/badge/ASP.NET_Web_Forms-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-6DB33F?style=for-the-badge)
 
