@@ -1,14 +1,20 @@
 <div align="center">
 
-# Hi 👋, I'm Ammar Ahmed
+# 👋 Hi, I'm Ammar Ahmed
 
 ### 🚀 Full Stack .NET Developer
 
-Building Enterprise ERP Solutions with .NET, Angular & AI
+Building enterprise-grade ERP solutions with **.NET, Angular, SQL Server & AI**.
 
-[🌐 Portfolio](https://devammarahmed.github.io) •
-[💼 LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) •
-📧 devammarahmed@gmail.com
+<p>
+  <a href="https://devammarahmed.github.io">
+    🌐 Portfolio
+  </a>
+  •
+  <a href="mailto:devammarahmed@gmail.com">
+    📧 Email
+  </a>
+</p>
 
 </div>
 
@@ -16,63 +22,97 @@ Building Enterprise ERP Solutions with .NET, Angular & AI
 
 # 👨‍💻 About Me
 
-I'm a Full Stack .NET Developer specialized in building Enterprise ERP Systems.
+I'm a Full Stack .NET Developer with experience in designing and developing Enterprise ERP systems.
 
-I enjoy creating scalable applications using modern architecture and AI-powered development tools.
+I enjoy building scalable software using modern architecture, clean code practices, and AI-powered development tools.
 
-- 🚀 ASP.NET Core
-- ⚡ Angular
-- 🏗 Clean Architecture
-- 📦 ERP Systems
+### Current Focus
+
+- 🚀 Enterprise ERP
 - 🤖 AI Assisted Development
-- 🗄 SQL Server
-- 🔄 REST APIs
+- ⚡ ASP.NET Core
+- 🌐 Angular
+- 🏗 Clean Architecture
+- 🔐 Authentication & Authorization
+- 📊 Reporting Systems
 
 ---
 
-# 🚀 Current Projects
-
-- Enterprise ERP Platform
-- Restaurant ERP
-- AI Assisted Development
-- Modern Angular Applications
-
----
-
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
 ### Backend
 
-- ASP.NET Core
-- C#
-- Entity Framework Core
-- MediatR
-- CQRS
-- SQL Server
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
+![Entity Framework](https://img.shields.io/badge/EF_Core-6DB33F?style=for-the-badge)
 
 ### Frontend
 
-- Angular
-- TypeScript
-- HTML
-- CSS
-- SCSS
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### Database
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 ### Tools
 
-- Git
-- GitHub
-- Docker
-- Cursor AI
-- Visual Studio
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
 
 ---
 
-# 📫 Contact
+# 🏢 Enterprise Experience
 
-📧 devammarahmed@gmail.com
+✔ ERP Systems
 
-🌍 Egypt 🇪🇬
+✔ Accounting
+
+✔ Inventory
+
+✔ Sales
+
+✔ Purchases
+
+✔ HR
+
+✔ Payroll
+
+✔ Restaurant Management
+
+✔ POS
+
+✔ Electronic Invoice
+
+✔ Reporting
+
+✔ Permission Management
+
+---
+
+# 🚀 Featured Projects
+
+### 🏢 Girix ERP
+
+Enterprise ERP platform built with ASP.NET Core & Angular.
+
+---
+
+### 🍽 Restaurant ERP
+
+Complete Restaurant Management System.
+
+---
+
+### 🌐 Personal Portfolio
+
+https://devammarahmed.github.io
 
 ---
 
@@ -93,5 +133,23 @@ I enjoy creating scalable applications using modern architecture and AI-powered 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=DevAmmarAhmed&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Contact
+
+📧 **devammarahmed@gmail.com**
+
+🌐 **https://devammarahmed.github.io**
+
+📍 Egypt 🇪🇬
+
+---
+
+<div align="center">
+
+### ⭐ Building software that solves real business problems.
 
 </div>
