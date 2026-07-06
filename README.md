@@ -7,7 +7,7 @@
 Building enterprise-grade ERP solutions with **.NET, Angular, SQL Server & AI**.
 
 <p>
-  <a href="https://devammarahmed.github.io">
+  <a target="_blank" href="https://devammarahmed.github.io">
     🌐 Portfolio
   </a>
   •
