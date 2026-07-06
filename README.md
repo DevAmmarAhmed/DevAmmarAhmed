@@ -115,6 +115,33 @@ Backend Team Lead responsible for:
 
 ---
 
+# 📦 Published NuGet Packages
+
+### 🚀 AmmarAhmed.CoreUtilities
+
+Reusable utilities and helper extensions for enterprise .NET applications.
+
+[![NuGet Version](https://img.shields.io/nuget/v/AmmarAhmed.CoreUtilities?style=for-the-badge)](https://www.nuget.org/packages/AmmarAhmed.CoreUtilities)
+[![Downloads](https://img.shields.io/nuget/dt/AmmarAhmed.CoreUtilities?style=for-the-badge)](https://www.nuget.org/packages/AmmarAhmed.CoreUtilities)
+
+```bash
+dotnet add package AmmarAhmed.CoreUtilities --version 8.0.0
+```
+
+---
+
+### ⚡ AmmarAhmed.QueryKit
+
+Lightweight querying library for filtering, searching, sorting, and pagination.
+
+[![NuGet Version](https://img.shields.io/nuget/v/AmmarAhmed.QueryKit?style=for-the-badge)](https://www.nuget.org/packages/AmmarAhmed.QueryKit)
+[![Downloads](https://img.shields.io/nuget/dt/AmmarAhmed.QueryKit?style=for-the-badge)](https://www.nuget.org/packages/AmmarAhmed.QueryKit)
+
+```bash
+dotnet add package AmmarAhmed.QueryKit --version 1.0.0
+```
+---
+
 # 📊 GitHub Statistics
 
 <div align="center">
