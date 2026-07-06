@@ -11,7 +11,7 @@ Building enterprise-grade ERP solutions with **.NET, Angular, SQL Server & AI**.
     🌐 Portfolio
   </a>
   •
-  <a href="mailto:devammarahmed@gmail.com">
+  <a target="_blank" href="mailto:devammarahmed@gmail.com">
     📧 Email
   </a>
 </p>
