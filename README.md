@@ -12,8 +12,6 @@ Building scalable Enterprise ERP Solutions using **ASP.NET Core**, **Clean Archi
 <a href="mailto:DevAmmarAhmed@gmail.com">Email</a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Senior+.NET+Backend+Developer;Backend+Team+Lead;Enterprise+ERP+Developer;Clean+Architecture+%7C+CQRS+%7C+MediatR;ASP.NET+Core+%7C+Angular+%7C+SQL+Server"/>
-
 </div>
 
 ---
@@ -30,23 +28,11 @@ Currently leading backend development teams and delivering enterprise ERP, HR, C
 
 # 💻 Tech Stack
 
-### Backend
-
 <p>
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,angular,ts,js,html,css,sqlserver"/>
 
 </p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css"/>
-
-</p>
-
-### Database
 
 <p>
 
@@ -162,6 +148,27 @@ Backend Team Lead responsible for:
 <img src="https://raw.githubusercontent.com/DevAmmarAhmed/DevAmmarAhmed/output/github-contribution-grid-snake.svg"/>
 
 </picture>
+
+</div>
+
+---
+
+# 💬 Feedback
+
+I'm always open to feedback and continuous improvement.
+
+If you've reviewed my projects or worked with me, I'd love to hear your thoughts.
+
+- ⭐ Star the repositories you find useful.
+- 🐛 Open an Issue if you have suggestions.
+- 💼 Connect with me on LinkedIn.
+- 📧 Send me your feedback by email.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Leave%20Feedback-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammar-ahmed-685833211)
+
+[![Email](https://img.shields.io/badge/Email-DevAmmarAhmed%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:DevAmmarAhmed@gmail.com)
 
 </div>
 
