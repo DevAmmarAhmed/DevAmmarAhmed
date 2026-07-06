@@ -111,32 +111,6 @@ Complete Restaurant Management System.
 
 ---
 
-### 🌐 Personal Portfolio
-
-https://devammarahmed.github.io
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevAmmarAhmed&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmmarAhmed&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=DevAmmarAhmed&theme=algolia&no-frame=true&row=2&column=4)
-
-</div>
----
-
 # 📈 Contribution Graph
 
 [![Ammar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevAmmarAhmed&theme=github-compact)](https://github.com/DevAmmarAhmed)
@@ -158,6 +132,8 @@ https://devammarahmed.github.io
 
 🌐 **https://devammarahmed.github.io**
 
+📱 **Mobile:** [+20 100 748 7031](tel:+201007487031)
+
 📍 Egypt 🇪🇬
 
 ---
@@ -171,6 +147,6 @@ https://devammarahmed.github.io
 
 <div align="center">
 
-> **"Building software that solves real business problems."**
+**"Building software that solves real business problems."**
 
 </div>
