@@ -58,13 +58,11 @@ I enjoy building scalable software using modern architecture, clean code practic
 ### Database
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
 
 ---
@@ -116,16 +114,6 @@ Complete Restaurant Management System.
 [![Ammar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevAmmarAhmed&theme=github-compact)](https://github.com/DevAmmarAhmed)
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DevAmmarAhmed&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 # 📫 Contact
 
 📧 **devammarahmed@gmail.com**
@@ -143,7 +131,6 @@ Complete Restaurant Management System.
 ### ⭐ Building software that solves real business problems.
 
 </div>
----
 
 <div align="center">
 
