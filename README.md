@@ -138,10 +138,11 @@ If you've reviewed my projects or worked with me, I'd love to hear your thoughts
 
 <div align="center">
 
-[![Feedback](https://img.shields.io/badge/Leave%20Feedback-Open%20Issue-success?style=for-the-badge&logo=github)](https://github.com/DevAmmarAhmed/feedback/issues/new)
+[![LinkedIn](https://img.shields.io/badge/Leave%20Feedback-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammar-ahmed-685833211)
+
+[![Email](https://img.shields.io/badge/Email-DevAmmarAhmed%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:DevAmmarAhmed@gmail.com)
 
 </div>
-
 ---
 
 # 📬 Contact
